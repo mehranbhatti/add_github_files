@@ -37,9 +37,15 @@ git add .
 Or if you only want specific folders/files:
 
 git add folder1 folder2 file1.py
+
 10. Commit the Changes
+
 Write a clear commit message:
+
 git commit -m "Added new files from local folder"
-11. Push to GitHub
+
+13. Push to GitHub
+
 Assuming you're using the main branch (double-check if it's main or master):
+
 git push origin main
